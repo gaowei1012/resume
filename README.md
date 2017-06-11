@@ -13,7 +13,6 @@
  - 高明伟/男/1993 
  - 专科/西安翻译学院  
  - 工作年限：２年 
- - 微博：[@JobDeer](http://weibo.com/jobdeer)  
  - 技术博客：https://gmw-zjw.github.io/  
  - Github: https://github.com/gmw-zjw 
  - 期望职位：Web前端实习生
