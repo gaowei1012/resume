@@ -6,13 +6,13 @@
 - 手机：17791533596 
 - Email：gaomingwei2017@163.com
 - QQ/微信号：717503359
-
+- 博客: [点击浏览](https://gmw-zjw.github.io/)
 
 ## 个人信息
 
  - 高明伟/男/1993 
  - 专科/西安翻译学院  
- - 工作年限：２年 
+ - 工作年限：/年 
  - 技术博客：https://gmw-zjw.github.io/  
  - Github: https://github.com/gmw-zjw 
  - 期望职位：Web前端实习生
