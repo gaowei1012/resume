@@ -31,7 +31,7 @@
 - 版本管理、文档和自动化部署工具：Git/
 
 ## 开源项目
- - [也不算是什么开源项目，自己写的几个小demo](https://github.com/gmw-zjw/webDemo)
+ - [也不算是什么开源项目，自己写的几个小demo](https://github.com/gmw-zjw/Demo)
 
 ## 致谢
  很感谢您能在百忙中抽出时间浏览我的简历，谢谢!
